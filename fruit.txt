@@ -1,0 +1,11 @@
+Item UnitPrice
+Soap 2
+Toothbrush 2.3
+Apple 1.5
+Kiwi 3.4
+Spinach 1.2
+Cookie-Jar 10
+Milk 4
+Coffee 5.2
+Eggs 4.6
+Water-Bottle 3.2
